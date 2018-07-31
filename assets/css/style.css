@@ -160,6 +160,11 @@ input[type=submit] {
         width: 750px;
     }
 
+    #about, #port-head, #contact-head {
+        font-size: 23px;
+        padding-bottom: 19px;
+    }
+
     nav {
         width: 750px;
         height: 90px;
@@ -191,6 +196,11 @@ input[type=submit] {
 
     .bio, .portfolio, .contact-form {
         width: 620px;
+    }
+
+    #about, #port-head, #contact-head {
+        font-size: 19px;
+        padding-bottom: 15.5px;
     }
 
     nav {
@@ -225,6 +235,11 @@ input[type=submit] {
 
     .bio, .portfolio, .contact-form {
         width: 440px;
+    }
+
+    #about, #port-head, #contact-head {
+        font-size: 13.5px;
+        padding-bottom: 11px;
     }
 
     nav {
