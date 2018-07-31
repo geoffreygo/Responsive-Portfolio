@@ -162,6 +162,10 @@ input[type=submit] {
         height: 90px;
     }
 
+    nav a:hover {
+        top: 35.5px;
+    }
+
     a {
         top: 39px;
     }
@@ -189,6 +193,10 @@ input[type=submit] {
     nav {
         width: 620px;
         height: 74px;
+    }
+
+    nav a:hover {
+        top: 29px;
     }
 
     a {
@@ -219,6 +227,10 @@ input[type=submit] {
     nav {
         width: 440px;
         height: 52.5px;
+    }
+    
+    nav a:hover {
+        top: 20.5px;
     }
 
     a {
