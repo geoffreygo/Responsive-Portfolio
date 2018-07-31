@@ -225,6 +225,10 @@ input[type=submit] {
         top: 23px;
     }
 
+    .pics {
+        float: none;
+    }
+
     #name {
         height: 52.5px;
         width: 199px;
